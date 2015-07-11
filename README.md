@@ -1,4 +1,4 @@
 ### Crazy Editor
 ---
 
-A powerful version of text editer for Windows.
+A powerful version of text editor for Windows.
